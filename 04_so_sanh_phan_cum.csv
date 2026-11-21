@@ -1,0 +1,4 @@
+Mo_hinh,So_cum,So_nhieu,Silhouette,Davies_Bouldin
+KMeans(k=5),5,0,0.5547,0.5722
+"Agglomerative(k=5, ward)",5,0,0.5538,0.5779
+"DBSCAN(eps=0.4, min_samples=5)",4,15,0.4781,0.5912

@@ -1,0 +1,4 @@
+Mo_hinh,Sieu_tham_so_tot_nhat,CV_F1,Test_Accuracy,Test_F1,Test_AUC,Baseline_Accuracy
+Logistic Regression,{'m__C': 0.01},0.72,0.55,0.71,0.586,0.55
+KNN,{'m__n_neighbors': 3},0.618,0.525,0.596,0.518,0.55
+Random Forest,"{'m__max_depth': 3, 'm__n_estimators': 100}",0.681,0.475,0.618,0.472,0.55
